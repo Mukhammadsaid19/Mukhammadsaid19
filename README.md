@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Mukhammadsaid, a student at Inha University 
 
-- 🌱 I’m currently learning fullstack deveopment.
+- 🌱 I’m currently learning fullstack development.
 - 💬 I’m currently interested in NLP, specifically in morphological parsing.
+- 👯 I’m looking to collaborate on Spring web applications.
 - ⚡ I hope 2021 will be a life-changing year. 
+
 
 <!--
 **Mukhammadsaid19/Mukhammadsaid19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
